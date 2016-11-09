@@ -1,10 +1,45 @@
 #include <iostream>
 
+class Graph
+{
+public:
+    //returns the number of vertices in the graph
+    void V(Graph &G){}
+
+    //returns the number of edges in the graph
+    void E(Graph &G){}
+
+    //tests whether there is an edge from node x to node y.
+    void adjacent (Graph &G, int x, int y){}
+
+    //lists all nodes y such that there is an edge from x to y.
+    void neighbors (Graph &G, int x){}
+
+    // adds to G the edge from x to y, if it is not there.
+    void add (Graph &G, int x, int y){}
+
+    // removes the edge from x to y, if it is there.
+    void delete_edge (Graph &G, int x, int y){}
+
+    //returns the value associated with the node x.
+    void get_node_value (Graph &G, int x){}
+
+    //sets the value associated with the node x to a.
+    void set_node_value( Graph &G, int x, int a){}
+
+    // returns the value associated to the edge (x,y).
+    void get_edge_value( Graph &G, int x, int y){}
+
+    // sets the value associated to the edge (x,y) to v.
+    void set_edge_value (Graph &G, int x, int y, int v){}
+
+};
 // A C / C++ program for Dijkstra's single source shortest path algorithm.
 // The program is for adjacency matrix representation of the graph
 
 // Number of vertices in the graph
 #define V 9
+int INT_MAX = 1000;
 
 // A utility function to find the vertex with minimum distance value, from
 // the set of vertices not yet included in shortest path tree
