@@ -1,0 +1,14 @@
+//
+// Created by ma3 on 10.11.2016.
+//
+
+#ifndef MONTECARLOSIMULATION_SHORTESTPATH_H
+#define MONTECARLOSIMULATION_SHORTESTPATH_H
+
+
+class ShortestPath {
+
+};
+
+
+#endif //MONTECARLOSIMULATION_SHORTESTPATH_H
