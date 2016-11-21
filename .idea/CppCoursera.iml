@@ -11,6 +11,8 @@
       <sourceFolder url="file://$MODULE_DIR$/PriorityQueue.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PriorityQueue.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Graph.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SpanningTree.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SpanningTree.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Graph.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SwapFunction/SwapFunction.h" isTestSource="false" />
     </content>
