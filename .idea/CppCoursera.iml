@@ -2,19 +2,25 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/ShortestPath.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PriorityQueue.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ShortestPath.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PriorityQueue.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kruskal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DeepFirstSearch.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Graph.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SwapFunction/SwapFunction.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kruskal.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SpanningTree.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SpanningTree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Generics/Generics.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Generics/Generics.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ShortestPath.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/QuickSort.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/PriorityQueue.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/PriorityQueue.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Graph.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SpanningTree.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SpanningTree.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Graph.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SwapFunction/SwapFunction.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DeepFirstSearch.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/QuickSort.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ShortestPath.cpp" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">

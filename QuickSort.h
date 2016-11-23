@@ -1,0 +1,14 @@
+//
+// Created by ma3 on 23.11.2016.
+//
+
+#ifndef MONTECARLOSIMULATION_QUICKSORT_H
+#define MONTECARLOSIMULATION_QUICKSORT_H
+
+
+class QuickSort {
+
+};
+
+
+#endif //MONTECARLOSIMULATION_QUICKSORT_H
